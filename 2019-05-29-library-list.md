@@ -1,6 +1,6 @@
-## List of preinstalled Python libraries
+## List of pre-installed Python (3.6) libraries
 
-### Data science and Machine Learning
+### Data Science and Machine Learning
 | Library | Version |
 | --- | --- |
 | Keras | 2.2.4 |
@@ -23,14 +23,14 @@
 | plotly | 3.9.0 |
 | seaborn | 0.9.0 |
 
-### Data source
+### Data Ingestion
 | Library | Version |
 | --- | --- |
 | elasticsearch | 7.0.0 |
 | h5py | 2.9.0 |
 | SQLAlchemy | 1.3.1 |
 
-### Natural language processing
+### Natural Language Processing
 | Library | Version |
 | --- | --- |
 | gensim | 3.7.3 |
